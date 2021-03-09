@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@aws-cdk/assert": "1.91.0",
-    "@sls-next/serverless-component": "1.15.2-alpha.1",
+    "@sls-next/serverless-component": "1.19.0-alpha.35",
     "aws-cdk": "1.91.0",
     "jest": "^26.4.2",
     "next": "10.0.7",
