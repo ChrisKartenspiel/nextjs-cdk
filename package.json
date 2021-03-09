@@ -1,0 +1,22 @@
+{
+  "name": "nextjs-cdk",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "cdk": "cdk",
+    "cdk-build": "echo \"The build step is not required when using JavaScript!\" && exit 0",
+    "cdk-test": "jest"
+  },
+  "dependencies": {
+    "@aws-cdk/assert": "1.91.0",
+    "@sls-next/serverless-component": "1.15.2-alpha.1",
+    "aws-cdk": "1.91.0",
+    "jest": "^26.4.2",
+    "next": "10.0.7",
+    "react": "17.0.1",
+    "react-dom": "17.0.1"
+  }
+}
